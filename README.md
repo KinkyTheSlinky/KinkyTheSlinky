@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KinkyTheSlinky
+- 👀 I’m interested in music and IT.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on VST.
+- 📫 How to reach me 'kinkytheslinky@vk.com'
